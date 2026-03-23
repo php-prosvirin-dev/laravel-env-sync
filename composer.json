@@ -1,5 +1,5 @@
 {
-  "name": "prosvirin/laravel-env-sync",
+  "name": "php-prosvirin-dev/laravel-env-sync",
   "description": "Sync .env.example with .env file in Laravel",
   "type": "library",
   "license": "MIT",
