@@ -19,7 +19,7 @@ A Laravel package that synchronizes your .env.example with .env file.
 
 ## Installation
 ```bash
-composer require prosvirin/laravel-env-sync --dev
+composer require php-prosvirin-dev/laravel-env-sync --dev
 ```
 
 ## Usage
