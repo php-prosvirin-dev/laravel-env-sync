@@ -1,0 +1,11 @@
+/vendor/
+/.idea/
+/.vscode/
+.DS_Store
+composer.lock
+.phpunit.cache/
+/.phpunit.cache/
+tests/__fixtures__/
+*.backup.*
+.env
+.env.backup.*
